@@ -1,0 +1,15 @@
+./print_file_info.c --> 2083 --> Regular File
+./file_info.so --> 16864 --> Regular File
+./script.sh --> 420 --> Regular File
+./makefile --> 480 --> Regular File
+./program_b_child.c --> 969 --> Regular File
+./output.txt --> 0 --> Regular File
+./program_a.c --> 1000 --> Regular File
+./program_b.c --> 913 --> Regular File
+./file_name --> 476 --> Regular File
+./.vscode --> 4096 --> Directory
+./print_file_info.h --> 371 --> Regular File
+./print_file_info.so --> 16864 --> Regular File
+./program_b_child --> 16984 --> Regular File
+./program_a --> 17040 --> Regular File
+./program_b --> 17008 --> Regular File
