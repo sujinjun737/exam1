@@ -1,4 +1,4 @@
-/* 程序progam_a读取命令参数，如progam_a -d . -f file_name; */
+/* 程序program_a读取命令参数，如progrm_a -d . -f file_name; */
 
 #include <stdio.h>
 #include <stdlib.h>
