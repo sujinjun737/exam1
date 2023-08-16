@@ -1,7 +1,6 @@
+//错误码
 #ifndef RETURN_ERROR_H
 #define RETURN_ERROR_H
-
-//错误码
 
 #define EF  1 //Exec failed
 #define FF  2 //Fork failed
